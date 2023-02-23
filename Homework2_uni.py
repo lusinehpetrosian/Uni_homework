@@ -37,4 +37,31 @@
 #             break;
 #         elif (stack =! []):
     
+    
+    
+# the right one
+
+# stack = []
+# check = '{{][]()][][]}}'
+# dct={
+#          "{": "}",
+#          "(": ")",
+#          "[": "]",
+#     }
+
+# flag = True
+
+# for c in check:
+#     if c in '{[(':
+#         stack.append(c)
+       
+#     else:
+#         if len(stack) == 0:
+#             flag = False
+#             break
+#         elif c != dct[stack.pop()]:
+#             flag = False   
+#             break      
+# print(flag) 
+
 
